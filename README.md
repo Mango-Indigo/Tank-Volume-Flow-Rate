@@ -11,6 +11,6 @@ And plugging the data given in the script, the equation can be written as:<br>
 </p>
 
 The graphs the script plots can be seen below:<br>
-<p align="center">
+
 ![Graph_1](https://github.com/user-attachments/assets/e41a9d20-94bc-48b1-9353-e23b7cc0c763)
-</p>
+
