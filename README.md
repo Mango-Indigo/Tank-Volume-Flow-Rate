@@ -9,6 +9,7 @@ And plugging the data given in the script, the equation can be written as:<br>
 <p align="center">
 $((dn(t))/dt= V ̇_1 (t) C_1 (t)  - [V ̇_1 (t)+ V ̇_2 (t) ]  n(t)/V_tank   -k n(t))   (2) <br><br>
 </p>
+$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
 The graphs the script plots can be seen below:<br>
 
